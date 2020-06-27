@@ -1,3 +1,4 @@
+* Stack now filters for application frames
 * Rename 'show-stack' to 'stack' (#50, #8)
 
 ## v0.5.1 (21 May 2020)
